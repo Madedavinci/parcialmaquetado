@@ -1,0 +1,2 @@
+# parcialmaquetado
+parcial maquetadp
